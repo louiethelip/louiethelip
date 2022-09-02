@@ -14,7 +14,7 @@
 
 - 📫 How to reach me unfortunately as we are advised by the Hub that we shouldn't divulge our email addresses
 -    when we are discussing on the Hub and as my web site is yet incomplete, I fear the GitHub is my only
--    my only means of contact for now, until my web site is up and running.
+-    means of contact for now, until my web site is up and running.
   
 
 <!---
